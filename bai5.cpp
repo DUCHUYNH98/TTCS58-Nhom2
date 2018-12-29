@@ -9,7 +9,7 @@ using namespace std;
 struct co {
 	int tren, duoi;
 };
-//---------- du lieu luu cac con co
+//---------- du lieu luu cac con co aaaaaaaaaaaaaaaaaaaa
 co a[29];
 
 //------------------- trang thai cac con co 0 or 1
